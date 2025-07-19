@@ -10,10 +10,10 @@ export const PLATFORM_CREATOR_ADDRESS = new PublicKey(
 )
 
 // Gamba explorer URL - Appears in RecentPlays
-export const EXPLORER_URL = 'https://explorer.gamba.so'
+export const EXPLORER_URL = 'https://runefury.com/casino'
 
 // Platform URL - Appears in ShareModal
-export const PLATFORM_SHARABLE_URL = 'play.gamba.so'
+export const PLATFORM_SHARABLE_URL = 'https://runefury.com/casino'
 
 // Creator fee (in %)
 export const PLATFORM_CREATOR_FEE = 0.01 // 1% !!max 5%!!
